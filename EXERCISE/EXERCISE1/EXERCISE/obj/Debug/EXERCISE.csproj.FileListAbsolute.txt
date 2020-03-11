@@ -1,0 +1,7 @@
+D:\HOc\PV\Hoozing\iv6bwsgy06gnf86g\EXERCISE\EXERCISE\EXERCISE\bin\Debug\EXERCISE.exe.config
+D:\HOc\PV\Hoozing\iv6bwsgy06gnf86g\EXERCISE\EXERCISE\EXERCISE\bin\Debug\EXERCISE.exe
+D:\HOc\PV\Hoozing\iv6bwsgy06gnf86g\EXERCISE\EXERCISE\EXERCISE\bin\Debug\EXERCISE.pdb
+D:\HOc\PV\Hoozing\iv6bwsgy06gnf86g\EXERCISE\EXERCISE\EXERCISE\obj\Debug\EXERCISE.csprojAssemblyReference.cache
+D:\HOc\PV\Hoozing\iv6bwsgy06gnf86g\EXERCISE\EXERCISE\EXERCISE\obj\Debug\EXERCISE.csproj.CoreCompileInputs.cache
+D:\HOc\PV\Hoozing\iv6bwsgy06gnf86g\EXERCISE\EXERCISE\EXERCISE\obj\Debug\EXERCISE.exe
+D:\HOc\PV\Hoozing\iv6bwsgy06gnf86g\EXERCISE\EXERCISE\EXERCISE\obj\Debug\EXERCISE.pdb
